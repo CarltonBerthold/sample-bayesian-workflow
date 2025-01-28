@@ -10,7 +10,7 @@ falls under an MIT license, reuse of any materials contained within for
 assignments pertaining to this course is prohibited and may result in an
 academic integrity violation.
 
-This code accompanies the following [paper](Docs/Bayesian Linear Regression Based Determination of Relevant Correlates of Exam Performance.pdf)
+This code accompanies the following [paper](<Docs/Bayesian Linear Regression Based Determination of Relevant Correlates of Exam Performance.pdf>)
 which formally reports the analyses conducted via the R script. All generated
 plots and graphics are also presented within. The data used for these analysis
 are synthetic and were sourced from kaggle
